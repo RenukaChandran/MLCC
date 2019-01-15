@@ -1,3 +1,5 @@
-the google mighty, I, Google
-i AM GOOGLE
-WHat is THE GOOgle
+this file contains the input text for wordcount.py file.
+wordcount.py has the following two functionalities
+1.to list all the words used in the document with its count
+2.to list top 20 words used frequently.
+the functionality can be spefied as command line arguments either --count or --topcount.
